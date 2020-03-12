@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/machine-gun-01.wav-446cc0605977c044d723816c4ba8380d.sample"
+
+[deps]
+
+source_file="res://effect/machine-gun-01.wav"
+dest_files=[ "res://.import/machine-gun-01.wav-446cc0605977c044d723816c4ba8380d.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
